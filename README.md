@@ -18,7 +18,7 @@ Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relation
 
 ⚡️ Currently ⚡️
 
-Looking for summer 2023 internships in Data Analyst/ Business Analyst/Data Engineer.
+Looking for Summer/Fall 2023 internships in Data Analyst/ Business Analyst/Data Engineer.
 
 Learning data cleaning and wrangling using Python.
 
