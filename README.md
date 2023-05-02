@@ -1,7 +1,7 @@
 Hi there 🙋
 
 I'm Shaurin Karnik, a graduate student in Data Analytics Engineering at Northeastern University, USA.
-
+Linkedin : https://www.linkedin.com/in/shaurin-karnik/
 ✨About me in 30 Secs✨
 
 Pursuing a master's degree in Data Analytics.
