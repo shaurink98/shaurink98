@@ -1,19 +1,19 @@
 Hi there 🙋
 
-I'm Shaurin Karnik, a graduate student in Data Analytics Engineering at Northeastern University, USA.
+I'm Shaurin Karnik, a graduate student in Data Analytics Engineering at Northeastern University, Boston, USA.
 
 
 ✨About me in 30 Secs✨
 
-Pursuing a master's degree in Data Analytics.
+Pursuing Master of Science degree in Data Analytics.
 
 Data Analyst with 2 years of professional experience.
 
-Completed bachelor's in Information Technology
+Completed Bachelor of Engineering in Electronics and Telecommunication Engineering.
 
 💡 Core Competencies 💡
 
-Tools: SQL, Python, Tableau,Power BI
+Tools: Microsoft Office(Excel, Word, PowerPoint, Outlook), SQL, Python, Tableau, Power BI
 
 Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
