@@ -13,7 +13,7 @@ Completed Bachelor of Engineering in Electronics and Telecommunication Engineeri
 
 💡 Core Competencies 💡
 
-Tools: Microsoft Office(Excel, Word, PowerPoint, Outlook), SQL, Python, Tableau, Power BI)
+Tools: Microsoft Office(Excel, Word, PowerPoint, Outlook), SQL, Python, Tableau, Power BI
 
 Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
