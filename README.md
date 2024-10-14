@@ -7,9 +7,11 @@ I'm Shaurin Karnik, a graduate student in Data Analytics Engineering at Northeas
 
 Pursuing Master of Science degree in Data Analytics.
 
-Data Analyst with 2 years of professional experience.
+Data Analyst with 3 years of professional experience.
 
-Completed Bachelor of Engineering in Electronics and Telecommunication Engineering.
+Completed 8 months Co-Op as a Data Analyst at Schneider Electric from Feb 2024 - Aug 2024.
+
+Completed Bachelor's of Engineering in Electronics and Telecommunication Engineering.
 
 💡 Core Competencies 💡
 
@@ -19,11 +21,11 @@ Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relation
 
 ⚡️ Currently ⚡️
 
-Looking for Spring 2024 internships in Data Analyst/ Business Analyst/Data Engineer.
+Looking for Fulltime Opportunities in Data Analyst/ Business Analyst/Data Engineer positions.
 
-Learning data cleaning and wrangling using Python.
+Learning Data Engineering and AWS Cliud Technology.
 
-Brushing up on SQL skills.
+Brushing up on SQL and Python skills.
 
 Tableau : https://public.tableau.com/app/profile/shaurin.karnik
 
